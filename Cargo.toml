@@ -1,0 +1,9 @@
+[workspace]
+
+members = [
+    "lib",
+    "cache_and_api",
+    "./plugin/bit_filter",
+    "./plugin/alt_filter",
+    "./plugin/ww_filter/",
+]
